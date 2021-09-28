@@ -1,0 +1,11 @@
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\bin\Debug\Exercicio_Tarefa_21_09.exe.config
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\bin\Debug\Exercicio_Tarefa_21_09.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\bin\Debug\Exercicio_Tarefa_21_09.pdb
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\obj\Debug\Exercicio_Tarefa_21_09.csprojAssemblyReference.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\obj\Debug\Exercicio_Tarefa_21_09.Form1.resources
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\obj\Debug\Exercicio_Tarefa_21_09.Frm_Endereco.resources
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\obj\Debug\Exercicio_Tarefa_21_09.Properties.Resources.resources
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\obj\Debug\Exercicio_Tarefa_21_09.csproj.GenerateResource.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\obj\Debug\Exercicio_Tarefa_21_09.csproj.CoreCompileInputs.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\obj\Debug\Exercicio_Tarefa_21_09.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\Exercicio_Tarefa_21_09\obj\Debug\Exercicio_Tarefa_21_09.pdb

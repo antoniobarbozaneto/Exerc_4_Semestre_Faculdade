@@ -1,0 +1,23 @@
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\bin\Debug\ADS4_Aula_21_09_21_A.exe.config
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\bin\Debug\ADS4_Aula_21_09_21_A.exe
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\bin\Debug\ADS4_Aula_21_09_21_A.pdb
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.csprojAssemblyReference.cache
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.Form1.resources
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.Frm_Pessoa.resources
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.Properties.Resources.resources
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.csproj.GenerateResource.cache
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.csproj.CoreCompileInputs.cache
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.exe
+C:\Users\Rischioto\source\repos\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.pdb
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\bin\Debug\ADS4_Aula_21_09_21_A.exe.config
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\bin\Debug\ADS4_Aula_21_09_21_A.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\bin\Debug\ADS4_Aula_21_09_21_A.pdb
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.csprojAssemblyReference.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.Form1.resources
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.Frm_Endereco.resources
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.Frm_Pessoa.resources
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.Properties.Resources.resources
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.csproj.GenerateResource.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.csproj.CoreCompileInputs.cache
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.exe
+C:\Users\neto_\Desktop\NETO PANIGASSI\Faculdade - UNIP   ADS\ADS - UNIP (4º SEMESTRE)\MATÉRIAS PRESENCIAIS\Programação Orientado Objetos  II\ADS4_Aula_21_09_21_A\ADS4_Aula_21_09_21_A\obj\Debug\ADS4_Aula_21_09_21_A.pdb
